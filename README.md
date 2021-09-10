@@ -34,3 +34,4 @@ $ bundle exec rails server
 
 - 以上のコマンドが正しく実行できた場合、ブラウザで`localhost:3000`にアクセスしましょう。
 ＃test
+# test
